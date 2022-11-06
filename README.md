@@ -1,6 +1,13 @@
 <<<<<<< HEAD
 # React Course - Beginner's Tutorial for React JavaScript Library 2022
 
+Reasons for using React:<br /> 
+1) it's composable code<br /> 
+<br /> 
+<br /> 
+
+
+
 0:00 Introduction <br /> 
 5:27 What we’ll learn <br /> 
 7:03 Fun facts about react link <br /> 
@@ -122,3 +129,4 @@ Check out the class components crash course: https://scrimba.com/playlist/pBpayA
 ======= <br /> 
 # React Course - Beginner's-Tutorial for React JavaScript Library-2022 by freeCodeCamp <br /> 
 >>>>>>> ac3f01230073a82d89a75570b507069fff9b942c
+
