@@ -5,7 +5,7 @@ Reasons for using React:<br />
 1) it's composable code<br /> 
 2) it's declarative - what should be done (opposite: imperative - how it should be done)
 3) It's a hireable skill<br /> 
-4) 
+4) Skilled people 
 <br /> 
 
 
