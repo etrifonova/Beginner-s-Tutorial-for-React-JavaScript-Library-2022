@@ -1,8 +1,8 @@
 <<<<<<< HEAD
 # React Course - Beginner's Tutorial for React JavaScript Library 2022
 
-0:00 Introduction
-5:27 What we’ll learn
+0:00 Introduction <br /> 
+5:27 What we’ll learn <br /> 
 7:03 Fun facts about react link: https://www.figma.com/file/xA1rJVQOor...
 9:08 First react
 https://reactjs.org/docs/cdn-links.html
