@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React-Course---Beginner-s-Tutorial-for-React-JavaScript-Library-2022-
 
 0:00 Introduction
@@ -121,3 +122,6 @@ https://github.com/alampros/react-con...
 11:47:26 OTDB API  https://opentdb.com/api_config.php
 Check out the class components crash course: https://scrimba.com/playlist/pBpayAz
 11:49:32 Congrats on completing Module 1!
+=======
+# React Course - Beginner's-Tutorial for React JavaScript Library-2022 by freeCodeCamp
+>>>>>>> ac3f01230073a82d89a75570b507069fff9b942c
