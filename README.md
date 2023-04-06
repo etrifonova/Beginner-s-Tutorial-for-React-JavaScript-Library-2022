@@ -2,10 +2,10 @@
 # React Course - Beginner's Tutorial for React JavaScript Library 2022
 
 Reasons for using React:<br /> 
-1) it's composable code<br /> 
-2) it's declarative - what should be done (opposite: imperative - how it should be done)
-3) It's a hireable skill<br /> 
-4) Skilled people 
+1 it's composable code<br /> 
+2 it's declarative - what should be done (opposite: imperative - how it should be done)
+3 It's a hireable skill<br /> 
+4 Skilled people 
 <br /> 
 
 
