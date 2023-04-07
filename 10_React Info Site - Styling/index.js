@@ -1,9 +1,15 @@
+// 1:24:00
 
 function Header() {
   return (
     <header>
-      <nav>
-        <img src="./react-logo.png" alt="React Logo" width="48" />
+      <nav className="navigation">
+        <img src="./react-logo.png" alt="React Logo" className="nav-img" />
+        <ul className="nav-items">
+          <li>Pricing</li>
+          <li>About</li>
+          <li>Contact</li>
+        </ul>
       </nav>
     </header>
   )
@@ -11,20 +17,20 @@ function Header() {
 
 function MainComponent() {
   return (
-    <div>
+    <div className="main-container">
       <h1>Reasons to learn React</h1>
-        <ul>
+        <ol>
           <li>It facilitates website building</li>
           <li>It's a hirable skill</li>
           <li>It's awesome</li>
-        </ul>
+        </ol>
     </div>
   )
 }
 
 function Footer() {
   return (
-    <footer>
+    <footer className="page-footer">
       <p>&copy; 2023 eTrifonova Development. All rights reserved.</p>
     </footer>
   )
