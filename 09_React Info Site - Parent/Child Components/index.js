@@ -1,27 +1,38 @@
-// ПРОДОДЖИТЬ С 1:10:53
 
+function Header() {
+  return (
+    <header>
+      <nav>
+        <img src="./react-logo.png" alt="React Logo" width="48" />
+      </nav>
+    </header>
+  )
+}
+
+function Footer() {
+  return (
+    <footer>
+      <p>&copy; 2023 eTrifonova Development. All rights reserved.</p>
+    </footer>
+  )
+}
 
 function NewPage() {
     return (
         <div>
-          <header>
-            <nav>
-              <img src="./react-logo.png" alt="React Logo" width="48" />
-            </nav>
-          </header>
+          <Header />
           <h1>Reasons to learn React</h1>
             <ul>
               <li>It facilitates website building</li>
               <li>It's a hirable skill</li>
               <li>It's awesome</li>
-              </ul>
-          <footer>
-            <p>&copy; 2023 eTrifonova Development. All rights reserved.</p>
-          </footer>
+            </ul>
+          <Footer />
         </div>
   )
 }
 
+// ReactDOM.render(<Header />, document.getElementById('root'));
 ReactDOM.render(<NewPage />, document.getElementById('root'));
 
 
