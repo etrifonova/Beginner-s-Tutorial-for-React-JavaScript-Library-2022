@@ -1,5 +1,3 @@
-// 1:24:00
-
 function Header() {
   return (
     <header>
@@ -38,7 +36,7 @@ function Footer() {
 
 function NewPage() {
     return (
-        <div>
+        <div className="body">
           <Header />
           <MainComponent />
           <Footer />
