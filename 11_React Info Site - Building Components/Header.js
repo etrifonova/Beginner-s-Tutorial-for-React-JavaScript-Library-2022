@@ -1,6 +1,6 @@
 // the file name starts with a capital letter
 
-function Header() {
+export default function Header() {
   return (
     <header>
       <nav className="navigation">
@@ -15,4 +15,3 @@ function Header() {
   )
 }
 
-export default Header

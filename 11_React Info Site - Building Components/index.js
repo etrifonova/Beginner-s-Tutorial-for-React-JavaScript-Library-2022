@@ -1,4 +1,4 @@
-// import Header from "./Header.js";
+import Header from "./Header";
 // 1:29:00
 function MainComponent() {
   return (
@@ -26,6 +26,7 @@ function Footer() {
 function NewPage() {
     return (
         <div className="body">
+          <Header />
           <MainComponent />
           <Footer />
         </div>
