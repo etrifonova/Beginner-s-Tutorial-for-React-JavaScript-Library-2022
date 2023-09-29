@@ -1,6 +1,6 @@
-// the file name starts with a capital letter
+import React from 'react';
 
-export default function Header() {
+function Header() {
   return (
     <header>
       <nav className="navigation">
@@ -14,4 +14,7 @@ export default function Header() {
     </header>
   )
 }
+
+export default Header;
+
 
